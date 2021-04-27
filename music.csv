@@ -1,0 +1,98 @@
+song_id,SongTitle,Artist,Genre,Explicit,ReleaseDate
+1,November Rain,Guns N Roses,Metal,1,1991
+2,Welcome to the Jungle,Guns N Roses,Metal,1,1987
+3,Paradise City,Guns N Roses,Metal,1,1987
+4,My Michelle,Guns N Roses,Metal,1,1987
+5,Night Train,Guns N Roses,Metal,1,1992
+6,Back in Black,AC/DC,Metal,1,1980
+7,Highway to Hell,AC/DC,Metal,1,1979
+8,Thunderstruck,AC/DC,Metal,1,1990
+9,Hells Bells,AC/DC,Metal,1,1980
+10,Fade to Black,Metallica,Metal,1,1984
+11,Nothing Else Matters,Metallica,Metal,1,1991
+12,Master of Puppets,Metallica,Metal,1,1986
+13,For Whom the Bell Tolls,Metallica,Metal,1,1984
+14,One,Metallica,Metal,1,1988
+15,Paranoid,Black Sabbath,Metal,1,1970
+16,Sabbath Bloody Sabbath,Black Sabbath,Metal,1,1973
+17,Snowblind,Black Sabbath,Metal,1,1972
+18,Iron Man,Black Sabbath,Metal,1,1970
+19,War Pigs,Black Sabbath,Metal,1,1970
+20,Number of the Beast,Iron Maiden,Metal,1,1982
+21,The Trooper,Iron Maiden,Metal,1,1983
+22,Run to the Hills,Iron Maiden,Metal,1,1982
+23,Aces High,Iron Maiden,Metal,1,1984
+24,Hallowed be Thy Name,Iron Maiden,Metal,1,1982
+25,God's Country,Blake Shelton,Country,0,2019
+26,Nobody But You,Blake Shelton,Country,0,2004
+27,Blake Shelton,Blake Shelton,Country,0,2020
+28,Hell Right,Blake Shelton,Country,0,2019
+29,Boys 'Round Here,Blake Shelton,Country,0,2013[]
+30,Fancy ,Reba McEntire,Country,0,1990
+31,Because Of You,Reba McEntire,Country,0,2004
+32,Turn On The Radio,Reba McEntire,Country,0,2010
+33,Going Out Like,Reba McEntire,Country,0,2015
+34,The Night The Lights Went Out In Georgia,Reba McEntire,Country,0,1991
+35,Humble And Kind,Tim McGraw,Country,0,2016
+36,My Best Friend,Tim McGraw,Country,0,2009
+37,Truck Yeah,Tim McGraw,Country,0,2012
+38,Southern Girl,Tim McGraw,Country,0,2013
+39,Shotgun Rider,Tim McGraw,Country,0,2014
+40,Just When I Needed You Most,Tim McGraw,Country,0,2013
+41,The Thunder Rolls,Garth Brooks,Country,0,1990
+42,Mom ,Garth Brooks,Country,0,2014
+43,That Summer,Garth Brooks,Country,0,1992
+44,Unanswered Prayers,Garth Brooks,Country,0,1990
+45,Papa Loved Mama,Garth Brooks,Country,0,1991
+46,Much Too Young,Garth Brooks,Country,0,1989
+47,Blank Space,Taylor Swift,Pop,0,2014
+48,Shake It Off,Taylor Swift,Pop,0,2014
+49,Fifteen,Taylor Swift,Pop,0,2009
+50,Our Song,Taylor Swift,Pop,0,2009
+51,Ready For It,Taylor Swift,Pop,0,2017
+52,Begin Again,Taylor Swift,Pop,0,2012
+53,Mean,Taylor Swift,Pop,0,2011
+54,Thriller ,Michael Jackson,Pop,0,1982
+55,Beat It,Michael Jackson,Pop,0,1982
+56,Smooth Criminal,Michael Jackson,Pop,0,1987
+57,Earth Song,Michael Jackson,Pop,0,1995
+58,Billie Jean,Michael Jackson,Pop,0,1983
+59,You Are Not Alone,Michael Jackson,Pop,0,1995
+60,Slave To The Rhythm,Michael Jackson,Pop,0,1985
+61,Poker Face,Lady Gaga,Pop,1,2008
+62,Bad Romance,Lady Gaga,Pop,0,2008
+63,Telephone,Lady Gaga,Pop,0,2008
+64,Paparazzi,Lady Gaga,Pop,0,2008
+65,Just Dance,Lady Gaga,Pop,0,2008
+66,Toxic,Britney Spears,Pop,0,2003
+67,You Drive Me Crazy,Britney Spears,Pop,0,1999
+68,Oops I Did It Again,Britney Spears,Pop,1,2000
+69,Baby One More Time,Britney Spears,Pop,1,1999
+70,Piece of Me,Britney Spears,Pop,0,2007
+71,Sheena is a Punk Rocker,Ramones,Punk,1,1977
+72,Blitzkrieg Bop,Ramones,Punk,0,1976
+73,Rockaway Beach,Ramones,Punk,0,1977
+74,Teenage Lobotomy,Ramones,Punk,1,1977
+75,Pet Sematary,Ramones,Punk,1,1989
+76,We Are 138,The Misfits,Punk,1,1987
+77,Hybrid Moments,The Misfits,Punk,1,1985
+78,Dig Up Her Bones,The Misfits,Punk,1,1997
+79,Saturday Night,The Misfits,Punk,1,1999
+80,Die Die My Darling,The Misfits,Punk,1,1983
+81,Brat ,Green Day,Punk,0,1995
+82,Boulevard Of Broken Dreams,Green Day,Punk,0,2004
+83,21 Guns,Green Day,Punk,0,2009
+84,Good Riddance,Green Day,Punk,0,1997
+85,American Idiot,Green Day,Punk,0,2012
+86,Wake Me Up When September Ends,Green Day,Punk,0,2004
+87,Macy's Day Parade,Green Day,Punk,0,2009
+88,Rise Above,Black Flag,Punk,1,1981
+89,Wasted,Black Flag,Punk,1,1983
+90,American Waste,Black Flag,Punk,1,1983
+91,Police Story,Black Flag,Punk,1,1981
+92,My War,Black Flag,Punk,1,1984
+93,Holiday in Cambodia,Dead Kennedys,Punk,1,1979
+94,Kill the Poor,Dead Kennedys,Punk,1,1979
+95,California Uber Alles,Dead Kennedys,Punk,1,1979
+96,I Fought the Law,Dead Kennedys,Punk,1,1986
+97,Police Truck,Dead Kennedys,Punk,1,1979
